@@ -5,7 +5,6 @@
 [![GitHub forks](https://img.shields.io/github/forks/ToyoDAdoubiBackup/doubi.svg?style=popout&label=Fork)](https://github.com/ToyoDAdoubiBackup/doubi/fork)
 ## 脚本索引
 
-  * [ssrstatus.sh](#ssrstatus.sh)
 * [***代理相关***](#代理相关)
   * [ss-go.sh](#ss_gosh)
   * [ssr.sh](#ssrsh)
