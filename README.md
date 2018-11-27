@@ -62,7 +62,7 @@
 
 #####下载安装
 ```bash 
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/status.sh && chmod +x status.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/qq704361748/123/master/status.sh && chmod +x status.sh
 
 ## 代理相关
 
