@@ -51,10 +51,10 @@
 
 ## 使用方法
  - 显示客户端管理菜单
-  bash status.sh c
+  bash ssrstatus.sh c
  
  - 显示服务端管理菜单
-  bash status.sh s
+  bash ssrstatus.sh s
 ## 修改网页标题
  - 如果要修改网页标题或者网页顶部公告内容，打开 /usr/local/ServerStatus/web/index.html 文件修改即可，很显眼。
 ## CentOS7系统 负载显示异常的问题
@@ -62,7 +62,7 @@
 
 #### 下载安装:
 ```bash 
-wget -N --no-check-certificate https://raw.githubusercontent.com/qq704361748/123/master/status.sh && chmod +x status.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/qq704361748/123/master/ssrstatus.sh && chmod +x ssrstatus.sh
 ```
 ---
 
