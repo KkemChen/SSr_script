@@ -47,24 +47,7 @@
   * [ssr_ip_check.sh](#ssr_ip_checksh)
 
 ---
-## ssrstatus.sh
 
-## 使用方法
- - 显示客户端管理菜单
-  bash ssrstatus.sh c
- 
- - 显示服务端管理菜单
-  bash ssrstatus.sh s
-## 修改网页标题
- - 如果要修改网页标题或者网页顶部公告内容，打开 /usr/local/ServerStatus/web/index.html 文件修改即可，很显眼。
-## CentOS7系统 负载显示异常的问题
- - CentOS7系统 默认可能没有安装 netstat 依赖，所以会造成IP检测(负载)出错，手动安装即可：  yum install net-tools -y
-
-#### 下载安装:
-```bash 
-wget -N --no-check-certificate https://raw.githubusercontent.com/qq704361748/123/master/ssrstatus.sh && chmod +x ssrstatus.sh
-```
----
 
 ## 代理相关
 
